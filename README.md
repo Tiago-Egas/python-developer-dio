@@ -14,7 +14,8 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 | ----- | ------- |
 | Definindo Ambiente | [Resumos]() |
 | Conhecendo a Linguagem | [Resumos]() |
-| Versionamento de Còdigo | [Resumos]() |
+| Versionamento de Código | [Resumos]() |
+| Próxima aula a definir | [Resumos]() |
 
 ```
 git init
