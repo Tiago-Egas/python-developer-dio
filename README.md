@@ -12,14 +12,16 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 
 | Aulas | Resumos |
 | ----- | ------- |
-| Definindo Ambiente | [Resumos]() |
-| Conhecendo a Linguagem | [Resumos]() |
-| Versionamento de Código | [Resumos]() |
-| Próxima aula a definir | [Resumos]() |
+| 1. Introdução ao Ambiente Python com a Suzano | [Resumos](./1.%20Introdução%20ao%20Ambiente%20Python%20e%20Projetos%20Colaborativos/README.md) |
+| 2. Sintáxe Básica com Python | [Resumos]() |
+| 3. Trabalhando com Coleções em Python | [Resumos]() |
+| 4. Programação Orientada  Objetos com Python | [Resumos]() |
+| 5. Produtividade com Microsoft Copilot Studio | [Resumos]() |
+| 6. Integrando com Serviços de IA | [Resumos]() |
 
-```
-git init
-```
+## 🧑‍💻 Projetos Realizados
+- [Contribuindo em um Projeto Open Source no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/Tiago-Egas.md)
 
 ## 🔍 Referências
-- [Digita Innovation One]()
+- [Digital Innovation One](https://www.dio.me/)
+- [Suzano](https://www.suzano.com.br/)
