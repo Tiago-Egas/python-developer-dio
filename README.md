@@ -8,7 +8,7 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
-## 💻 Rusumo das aulas
+## 💻 Resumo das aulas
 
 | Aulas | Resumos |
 | ----- | ------- |
