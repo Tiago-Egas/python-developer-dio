@@ -14,7 +14,7 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 | Aulas | Resumos |
 | ----- | ------- |
 | 1. Introdução ao Ambiente Python com a Suzano | [Resumos](./1.%20Introdução%20ao%20Ambiente%20Python%20e%20Projetos%20Colaborativos/README.md) |
-| 2. Sintáxe Básica com Python | [Resumos]() |
+| 2. Sintáxe Básica com Python | [Resumos](./2.%20Sintaxe%20Básica%20com%20Python/README.md) |
 | 3. Trabalhando com Coleções em Python | [Resumos]() |
 | 4. Programação Orientada  Objetos com Python | [Resumos]() |
 | 5. Produtividade com Microsoft Copilot Studio | [Resumos]() |
