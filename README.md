@@ -20,7 +20,7 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 | 5. Produtividade com Microsoft Copilot Studio | [Resumos]() |
 | 6. Integrando com Serviços de IA | [Resumos]() |
 
-## Instruções para executar o Jupyter Notebooks
+## 💡Instruções para executar o Jupyter Notebooks
 ```
 python3 -m venv .venv
 source .venv/bin/activate
