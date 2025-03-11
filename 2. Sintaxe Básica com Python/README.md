@@ -16,3 +16,10 @@ Neste capítulo foram apresentados:
 - [Indentação e Blocos](./2.%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/1.%20identacao_blocos.ipynb)
 - [Estruturas Condicionais](./2.%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/2.%20estruturas_condicionais.ipynb)
 - [Estruturas de Repetição](./2.%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/3.%20estruturas_repeticao.ipynb)
+
+## 3. Manipulando Strings com Python
+
+- [Métodos Úteis](./3.%20%20Manipulando%20Strings%20com%20Python/1.%20metodos_uteis.ipynb)
+- [Interpretação de Variáveis](./3.%20%20Manipulando%20Strings%20com%20Python/2.%20interpretacao_variaveis.ipynb)
+- [Fatiamento de Strings](./3.%20%20Manipulando%20Strings%20com%20Python/3.%20fatimento_string.ipynb)
+- [Strings de Múltiplas Linhas](./3.%20%20Manipulando%20Strings%20com%20Python/4.%20string_multi_linha.ipynb)
