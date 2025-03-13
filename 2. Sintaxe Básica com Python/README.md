@@ -20,6 +20,6 @@ Neste capítulo foram apresentados:
 ## 3. Manipulando Strings com Python
 
 - [Métodos Úteis](./3.%20%20Manipulando%20Strings%20com%20Python/1.%20metodos_uteis.ipynb)
-- [Interpretação de Variáveis](./3.%20%20Manipulando%20Strings%20com%20Python/2.%20interpretacao_variaveis.ipynb)
+- [Interpretação de Variáveis](./3.%20%20Manipulando%20Strings%20com%20Python/2.%20interpolacao_variaveis.ipynb)
 - [Fatiamento de Strings](./3.%20%20Manipulando%20Strings%20com%20Python/3.%20fatimento_string.ipynb)
 - [Strings de Múltiplas Linhas](./3.%20%20Manipulando%20Strings%20com%20Python/4.%20string_multi_linha.ipynb)
