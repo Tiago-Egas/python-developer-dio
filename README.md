@@ -23,7 +23,7 @@ Curso desenvolvido pela [Digital Innovation One](https://www.dio.me/).
 
 ## 💡Instruções para executar o Jupyter Notebooks
 
-```
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pipx install ipykernel

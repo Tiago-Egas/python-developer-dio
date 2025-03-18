@@ -23,3 +23,8 @@ Neste capítulo foram apresentados:
 - [Interpretação de Variáveis](./3.%20%20Manipulando%20Strings%20com%20Python/2.%20interpolacao_variaveis.ipynb)
 - [Fatiamento de Strings](./3.%20%20Manipulando%20Strings%20com%20Python/3.%20fatimento_string.ipynb)
 - [Strings de Múltiplas Linhas](./3.%20%20Manipulando%20Strings%20com%20Python/4.%20string_multi_linha.ipynb)
+
+## 4. Dominando Funções em Python
+
+- [Parte 1](./4.%20Dominando%20Funções%20em%20Python/1.%20Funções%20Python%20-%20Parte%201.ipynb)
+- [Parte 2](./4.%20Dominando%20Funções%20em%20Python/2.%20Funções%20Python%20-%20Parte%202.ipynb)
