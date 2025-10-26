@@ -1,4 +1,4 @@
-# DIO - Suzano | Bootcamp Python Developer
+# DIO | Bootcamp Python Developer
 
 Repositório para armazenar anotações, códigos e atividades.
 
