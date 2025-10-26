@@ -1,4 +1,4 @@
-# 1. Introdução ao Ambiente Python com a Suzano
+# 1. Introdução ao Ambiente Python
 
 Neste capítulo foram apresentados:
 
