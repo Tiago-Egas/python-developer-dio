@@ -36,4 +36,3 @@ pipx install ipykernel
 ## 🔍 Referências
 
 - [Digital Innovation One](https://www.dio.me/)
-- [Suzano](https://www.suzano.com.br/)
