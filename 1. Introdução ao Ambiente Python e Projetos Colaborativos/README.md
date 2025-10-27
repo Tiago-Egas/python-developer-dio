@@ -1,32 +1,26 @@
-# 1. Introdução ao Ambiente Python
+# Módulo 1: Introdução ao Ambiente Python e Projetos Colaborativos
 
-Neste capítulo foram apresentados:
+## Conteúdo Programático
 
-- Instalação do Python 3  
-  - [Criação do "Olá, Mundo!"](./1.Definindo%20Ambiente/ola_mundo.ipynb)
-  - Sua usabilidade no REPL
-  - [Uso de variáveis e seus tipos](./2.%20Conhecendo%20a%20linguagem/1.%20primeiro_programa.ipynb)
-  - [Conversão de variáveis](./2.%20Conhecendo%20a%20linguagem/2.%20convertendo_tipos.ipynb)
-  - [Constantes](./2.%20Conhecendo%20a%20linguagem/3.variaveis_constantes.ipynb)
-  - [Inputs](./2.%20Conhecendo%20a%20linguagem/4.%20print_input.ipynb)
-- Instalação do VSCode
-  - Instalação das extensões necessárias
-- Instalação do Git
-  - Integração do Git com a conta do GitHub
-  - Criação e manipulação de repositórios locais
-  - Comandos básicos:
-    - init
-    - remote
-    - status
-    - log
-    - commit
-    - add
-    - stash
-    - pull
-    - push
-    - clone
-  - Branches:
-    - branch
-    - checkout
-    - diff
-    - merge
+### 1. Definindo o Ambiente
+- Criação do primeiro código em Python.
+- O tradicional "Olá, Mundo!" para iniciar os estudos.
+
+### 2. Conhecendo a Linguagem Python
+- **Primeiro programa:**
+    - Utilização da função `print`.
+    - Execução de programas no REPL (Read-Eval-Print Loop).
+- **Conversão de tipos:**
+    - Apresentação dos tipos de dados.
+    - Funções `int()`, `float()`, `str()` e `type()`.
+    - Operadores de divisão (`/` e `//`).
+- **Variáveis e Constantes:**
+    - Armazenamento de informações em variáveis.
+    - Declaração de constantes (convenção de nomenclatura).
+- **Interagindo com o usuário:**
+    - Utilização das funções `print` e `input`.
+    - Captura de dados do usuário e armazenamento em variáveis.
+
+### 3. Versionamento de Código
+- Organização de arquivos em diretórios para aulas e resumos.
+- Utilização do `.gitkeep` para manter a estrutura de pastas no Git.
